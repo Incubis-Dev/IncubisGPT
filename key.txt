@@ -1,0 +1,11 @@
+Yandex.cloud 
+
+ID Catalog: b1gb6fm7qs9srl1uuntv
+
+Идентификатор ключа:
+ajepum06meriik0jpucq
+Ваш секретный ключ:
+AQVN2fWAaztylQE8-Zpre0rYJ5bRV9MQTzItNvxP
+
+Telegram API 
+API cey "7434524034:AAHMTksYyRPTRwtkZRvwvZ1ALJGVlPMVrps"
